@@ -28,7 +28,7 @@ function runall() {
     var wi = document.getElementsByClassName("allbolll2")[0].value;
     var wic = parseInt(wi);
     var l = a + b + c + d + e + f + g + h + i + j + k + m;
-    document.getElementsByClassName("allrun")[0].value = l + "/" + wic+"(" + kmp + ")";
+    document.getElementsByClassName("allrun")[0].value = l + "/" + wic + "(" + kmp + ")";
 }
 
 function stakerat() {
@@ -2669,118 +2669,118 @@ function imsdafsad7() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-      var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-      if (radio2[0].checked) {
-          var m = document.getElementsByClassName("over")[0].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    if (radio2[0].checked) {
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[0].value = q;
-      }
-      if (!radio2[0].checked) {
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
 
-      }
-      if (radio2[1].checked) {
-          var m = document.getElementsByClassName("over")[1].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[1].checked) {
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[1].value = q;
-      }
-      if (!radio2[1].checked) {
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
 
-      }
-      if (radio2[2].checked) {
-          var m = document.getElementsByClassName("over")[2].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[2].checked) {
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[2].value = q;
-      }
-      if (!radio2[2].checked) {
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
 
-      }
-      if (radio2[3].checked) {
-          var m = document.getElementsByClassName("over")[3].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[3].checked) {
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[3].value = q;
-      }
-      if (!radio2[3].checked) {
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
 
-      }
-      if (radio2[4].checked) {
-          var m = document.getElementsByClassName("over")[4].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[4].checked) {
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[4].value = q;
-      }
-      if (!radio2[4].checked) {
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
 
-      }
-      if (radio2[5].checked) {
-          var m = document.getElementsByClassName("over")[5].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[5].checked) {
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[5].value = q;
-      }
-      if (!radio2[5].checked) {
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
 
-      }
-      if (radio2[6].checked) {
-          var m = document.getElementsByClassName("over")[6].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[6].checked) {
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[6].value = q;
-      }
-      if (!radio2[6].checked) {
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
 
-      }
-      if (radio2[7].checked) {
-          var m = document.getElementsByClassName("over")[7].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[7].checked) {
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[7].value = q;
-      }
-      if (!radio2[7].checked) {
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
 
-      }
-      if (radio2[8].checked) {
-          var m = document.getElementsByClassName("over")[8].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[8].checked) {
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[8].value = q;
-      }
-      if (!radio2[8].checked) {
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
 
-      }
-      if (radio2[9].checked) {
-          var m = document.getElementsByClassName("over")[9].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[9].checked) {
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[9].value = q;
-      }
-      if (!radio2[9].checked) {
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
 
-      }
-      if (radio2[10].checked) {
-          var m = document.getElementsByClassName("over")[10].value;
-          var n = parseInt(m);
-          var q = n + 1;
+    }
+    if (radio2[10].checked) {
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-          document.getElementsByClassName("over")[10].value = q;
-      }
-      if (!radio2[10].checked) {
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
 
-      }
+    }
 }
 
 function imsdafsad8() {
@@ -2791,118 +2791,118 @@ function imsdafsad8() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-         var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-         if (radio2[0].checked) {
-             var m = document.getElementsByClassName("over")[0].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    if (radio2[0].checked) {
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[0].value = q;
-         }
-         if (!radio2[0].checked) {
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
 
-         }
-         if (radio2[1].checked) {
-             var m = document.getElementsByClassName("over")[1].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[1].checked) {
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[1].value = q;
-         }
-         if (!radio2[1].checked) {
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
 
-         }
-         if (radio2[2].checked) {
-             var m = document.getElementsByClassName("over")[2].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[2].checked) {
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[2].value = q;
-         }
-         if (!radio2[2].checked) {
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
 
-         }
-         if (radio2[3].checked) {
-             var m = document.getElementsByClassName("over")[3].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[3].checked) {
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[3].value = q;
-         }
-         if (!radio2[3].checked) {
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
 
-         }
-         if (radio2[4].checked) {
-             var m = document.getElementsByClassName("over")[4].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[4].checked) {
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[4].value = q;
-         }
-         if (!radio2[4].checked) {
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
 
-         }
-         if (radio2[5].checked) {
-             var m = document.getElementsByClassName("over")[5].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[5].checked) {
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[5].value = q;
-         }
-         if (!radio2[5].checked) {
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
 
-         }
-         if (radio2[6].checked) {
-             var m = document.getElementsByClassName("over")[6].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[6].checked) {
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[6].value = q;
-         }
-         if (!radio2[6].checked) {
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
 
-         }
-         if (radio2[7].checked) {
-             var m = document.getElementsByClassName("over")[7].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[7].checked) {
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[7].value = q;
-         }
-         if (!radio2[7].checked) {
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
 
-         }
-         if (radio2[8].checked) {
-             var m = document.getElementsByClassName("over")[8].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[8].checked) {
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[8].value = q;
-         }
-         if (!radio2[8].checked) {
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
 
-         }
-         if (radio2[9].checked) {
-             var m = document.getElementsByClassName("over")[9].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[9].checked) {
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[9].value = q;
-         }
-         if (!radio2[9].checked) {
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
 
-         }
-         if (radio2[10].checked) {
-             var m = document.getElementsByClassName("over")[10].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[10].checked) {
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[10].value = q;
-         }
-         if (!radio2[10].checked) {
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
 
-         }
+    }
 }
 
 function imsdafsad9() {
@@ -2913,118 +2913,118 @@ function imsdafsad9() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-         var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-         if (radio2[0].checked) {
-             var m = document.getElementsByClassName("over")[0].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    if (radio2[0].checked) {
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[0].value = q;
-         }
-         if (!radio2[0].checked) {
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
 
-         }
-         if (radio2[1].checked) {
-             var m = document.getElementsByClassName("over")[1].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[1].checked) {
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[1].value = q;
-         }
-         if (!radio2[1].checked) {
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
 
-         }
-         if (radio2[2].checked) {
-             var m = document.getElementsByClassName("over")[2].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[2].checked) {
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[2].value = q;
-         }
-         if (!radio2[2].checked) {
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
 
-         }
-         if (radio2[3].checked) {
-             var m = document.getElementsByClassName("over")[3].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[3].checked) {
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[3].value = q;
-         }
-         if (!radio2[3].checked) {
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
 
-         }
-         if (radio2[4].checked) {
-             var m = document.getElementsByClassName("over")[4].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[4].checked) {
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[4].value = q;
-         }
-         if (!radio2[4].checked) {
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
 
-         }
-         if (radio2[5].checked) {
-             var m = document.getElementsByClassName("over")[5].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[5].checked) {
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[5].value = q;
-         }
-         if (!radio2[5].checked) {
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
 
-         }
-         if (radio2[6].checked) {
-             var m = document.getElementsByClassName("over")[6].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[6].checked) {
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[6].value = q;
-         }
-         if (!radio2[6].checked) {
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
 
-         }
-         if (radio2[7].checked) {
-             var m = document.getElementsByClassName("over")[7].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[7].checked) {
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[7].value = q;
-         }
-         if (!radio2[7].checked) {
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
 
-         }
-         if (radio2[8].checked) {
-             var m = document.getElementsByClassName("over")[8].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[8].checked) {
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[8].value = q;
-         }
-         if (!radio2[8].checked) {
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
 
-         }
-         if (radio2[9].checked) {
-             var m = document.getElementsByClassName("over")[9].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[9].checked) {
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[9].value = q;
-         }
-         if (!radio2[9].checked) {
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
 
-         }
-         if (radio2[10].checked) {
-             var m = document.getElementsByClassName("over")[10].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[10].checked) {
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[10].value = q;
-         }
-         if (!radio2[10].checked) {
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
 
-         }
+    }
 }
 
 function imsdafsad10() {
@@ -3035,118 +3035,118 @@ function imsdafsad10() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-         var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-         if (radio2[0].checked) {
-             var m = document.getElementsByClassName("over")[0].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    if (radio2[0].checked) {
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[0].value = q;
-         }
-         if (!radio2[0].checked) {
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
 
-         }
-         if (radio2[1].checked) {
-             var m = document.getElementsByClassName("over")[1].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[1].checked) {
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[1].value = q;
-         }
-         if (!radio2[1].checked) {
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
 
-         }
-         if (radio2[2].checked) {
-             var m = document.getElementsByClassName("over")[2].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[2].checked) {
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[2].value = q;
-         }
-         if (!radio2[2].checked) {
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
 
-         }
-         if (radio2[3].checked) {
-             var m = document.getElementsByClassName("over")[3].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[3].checked) {
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[3].value = q;
-         }
-         if (!radio2[3].checked) {
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
 
-         }
-         if (radio2[4].checked) {
-             var m = document.getElementsByClassName("over")[4].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[4].checked) {
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[4].value = q;
-         }
-         if (!radio2[4].checked) {
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
 
-         }
-         if (radio2[5].checked) {
-             var m = document.getElementsByClassName("over")[5].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[5].checked) {
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[5].value = q;
-         }
-         if (!radio2[5].checked) {
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
 
-         }
-         if (radio2[6].checked) {
-             var m = document.getElementsByClassName("over")[6].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[6].checked) {
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[6].value = q;
-         }
-         if (!radio2[6].checked) {
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
 
-         }
-         if (radio2[7].checked) {
-             var m = document.getElementsByClassName("over")[7].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[7].checked) {
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[7].value = q;
-         }
-         if (!radio2[7].checked) {
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
 
-         }
-         if (radio2[8].checked) {
-             var m = document.getElementsByClassName("over")[8].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[8].checked) {
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[8].value = q;
-         }
-         if (!radio2[8].checked) {
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
 
-         }
-         if (radio2[9].checked) {
-             var m = document.getElementsByClassName("over")[9].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[9].checked) {
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[9].value = q;
-         }
-         if (!radio2[9].checked) {
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
 
-         }
-         if (radio2[10].checked) {
-             var m = document.getElementsByClassName("over")[10].value;
-             var n = parseInt(m);
-             var q = n + 1;
+    }
+    if (radio2[10].checked) {
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
 
-             document.getElementsByClassName("over")[10].value = q;
-         }
-         if (!radio2[10].checked) {
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
 
-         }
+    }
 }
 
 function imsdafsad12() {
@@ -3157,138 +3157,138 @@ function imsdafsad12() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-      var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-      if (radio2[0].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[0].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[0].value = c;
-         
-      }
-      if (!radio2[0].checked) {
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
 
-      }
-      if (radio2[1].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[1].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[1].value = c;
-         
-      }
-      if (!radio2[1].checked) {
+    }
+    if (!radio2[0].checked) {
 
-      }
-      if (radio2[2].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[2].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[2].value = c;
-      }
-      if (!radio2[2].checked) {
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
 
-      }
-      if (radio2[3].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[3].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[3].value = c;
-      }
-      if (!radio2[3].checked) {
+    }
+    if (!radio2[1].checked) {
 
-      }
-      if (radio2[4].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[4].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[4].value = c;
-          
-      }
-      if (!radio2[4].checked) {
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+    }
+    if (!radio2[2].checked) {
 
-      }
-      if (radio2[5].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[5].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[5].value = c;
-         
-      }
-      if (!radio2[5].checked) {
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+    }
+    if (!radio2[3].checked) {
 
-      }
-      if (radio2[6].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[6].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[6].value = c;
-        
-      }
-      if (!radio2[6].checked) {
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
 
-      }
-      if (radio2[7].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[7].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[7].value = c;
-          
-      }
-      if (!radio2[7].checked) {
+    }
+    if (!radio2[4].checked) {
 
-      }
-      if (radio2[8].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[8].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[8].value = c;
-         
-      }
-      if (!radio2[8].checked) {
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
 
-      }
-      if (radio2[9].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[9].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[9].value = c;
-        
-      }
-      if (!radio2[9].checked) {
+    }
+    if (!radio2[5].checked) {
 
-      }
-      if (radio2[10].checked) {
-          var o = document.getElementsByClassName("button_1")[12].value;
-          var a = parseInt(o);
-          var h = document.getElementsByClassName("rundisa")[10].value;
-          var b = parseInt(h);
-          var c = a + b;
-          document.getElementsByClassName("rundisa")[10].value = c;
-        
-      }
-      if (!radio2[10].checked) {
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
 
-      }
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[12].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+
+    }
+    if (!radio2[10].checked) {
+
+    }
 }
 
 function imsdafsad13() {
@@ -3299,139 +3299,140 @@ function imsdafsad13() {
     var c = a + b;
     document.getElementsByClassName("Extra")[0].value = c;
 
-       var radio2 = document.getElementsByClassName("radio2");
+    var radio2 = document.getElementsByClassName("radio2");
 
-       if (radio2[0].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[0].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[0].value = c;
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
 
-       }
-       if (!radio2[0].checked) {
+    }
+    if (!radio2[0].checked) {
 
-       }
-       if (radio2[1].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[1].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[1].value = c;
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
 
-       }
-       if (!radio2[1].checked) {
+    }
+    if (!radio2[1].checked) {
 
-       }
-       if (radio2[2].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[2].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[2].value = c;
-       }
-       if (!radio2[2].checked) {
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+    }
+    if (!radio2[2].checked) {
 
-       }
-       if (radio2[3].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[3].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[3].value = c;
-       }
-       if (!radio2[3].checked) {
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+    }
+    if (!radio2[3].checked) {
 
-       }
-       if (radio2[4].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[4].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[4].value = c;
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
 
-       }
-       if (!radio2[4].checked) {
+    }
+    if (!radio2[4].checked) {
 
-       }
-       if (radio2[5].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[5].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[5].value = c;
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
 
-       }
-       if (!radio2[5].checked) {
+    }
+    if (!radio2[5].checked) {
 
-       }
-       if (radio2[6].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[6].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[6].value = c;
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
 
-       }
-       if (!radio2[6].checked) {
+    }
+    if (!radio2[6].checked) {
 
-       }
-       if (radio2[7].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[7].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[7].value = c;
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
 
-       }
-       if (!radio2[7].checked) {
+    }
+    if (!radio2[7].checked) {
 
-       }
-       if (radio2[8].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[8].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[8].value = c;
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
 
-       }
-       if (!radio2[8].checked) {
+    }
+    if (!radio2[8].checked) {
 
-       }
-       if (radio2[9].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[9].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[9].value = c;
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
 
-       }
-       if (!radio2[9].checked) {
+    }
+    if (!radio2[9].checked) {
 
-       }
-       if (radio2[10].checked) {
-           var o = document.getElementsByClassName("button_1")[13].value;
-           var a = parseInt(o);
-           var h = document.getElementsByClassName("rundisa")[10].value;
-           var b = parseInt(h);
-           var c = a + b;
-           document.getElementsByClassName("rundisa")[10].value = c;
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[13].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
 
-       }
-       if (!radio2[10].checked) {
+    }
+    if (!radio2[10].checked) {
 
-       }
+    }
 }
+
 function imsdafsad14() {
     var o = document.getElementsByClassName("button_1")[14].value;
     var a = parseInt(o);
@@ -3442,136 +3443,136 @@ function imsdafsad14() {
 
     var radio2 = document.getElementsByClassName("radio2");
 
-     if (radio2[0].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[0].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[0].value = c;
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
 
-     }
-     if (!radio2[0].checked) {
+    }
+    if (!radio2[0].checked) {
 
-     }
-     if (radio2[1].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[1].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[1].value = c;
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
 
-     }
-     if (!radio2[1].checked) {
+    }
+    if (!radio2[1].checked) {
 
-     }
-     if (radio2[2].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[2].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[2].value = c;
-     }
-     if (!radio2[2].checked) {
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+    }
+    if (!radio2[2].checked) {
 
-     }
-     if (radio2[3].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[3].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[3].value = c;
-     }
-     if (!radio2[3].checked) {
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+    }
+    if (!radio2[3].checked) {
 
-     }
-     if (radio2[4].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[4].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[4].value = c;
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
 
-     }
-     if (!radio2[4].checked) {
+    }
+    if (!radio2[4].checked) {
 
-     }
-     if (radio2[5].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[5].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[5].value = c;
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
 
-     }
-     if (!radio2[5].checked) {
+    }
+    if (!radio2[5].checked) {
 
-     }
-     if (radio2[6].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[6].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[6].value = c;
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
 
-     }
-     if (!radio2[6].checked) {
+    }
+    if (!radio2[6].checked) {
 
-     }
-     if (radio2[7].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[7].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[7].value = c;
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
 
-     }
-     if (!radio2[7].checked) {
+    }
+    if (!radio2[7].checked) {
 
-     }
-     if (radio2[8].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[8].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[8].value = c;
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
 
-     }
-     if (!radio2[8].checked) {
+    }
+    if (!radio2[8].checked) {
 
-     }
-     if (radio2[9].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[9].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[9].value = c;
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
 
-     }
-     if (!radio2[9].checked) {
+    }
+    if (!radio2[9].checked) {
 
-     }
-     if (radio2[10].checked) {
-         var o = document.getElementsByClassName("button_1")[14].value;
-         var a = parseInt(o);
-         var h = document.getElementsByClassName("rundisa")[10].value;
-         var b = parseInt(h);
-         var c = a + b;
-         document.getElementsByClassName("rundisa")[10].value = c;
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[14].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
 
-     }
-     if (!radio2[10].checked) {
+    }
+    if (!radio2[10].checked) {
 
-     }
+    }
 }
 
 function imsdafsad15() {
@@ -3715,6 +3716,7 @@ function imsdafsad15() {
 
     }
 }
+
 function imsdafsad16() {
     var o = document.getElementsByClassName("button_1")[16].value;
     var a = parseInt(o);
@@ -3998,6 +4000,7 @@ function imsdafsad17() {
 
     }
 }
+
 function imsdafsad18() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -4031,7 +4034,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[2].value = c;
-        
+
     }
     if (!radio1[2].checked) {
 
@@ -4043,7 +4046,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[3].value = c;
-       
+
     }
     if (!radio1[3].checked) {
 
@@ -4055,7 +4058,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[4].value = c;
-        
+
     }
     if (!radio1[4].checked) {
 
@@ -4067,7 +4070,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[5].value = c;
-       
+
     }
     if (!radio1[5].checked) {
 
@@ -4079,7 +4082,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[6].value = c;
-      
+
     }
     if (!radio1[6].checked) {
 
@@ -4091,7 +4094,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[7].value = c;
-       
+
     }
     if (!radio1[7].checked) {
 
@@ -4103,7 +4106,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[8].value = c;
-      
+
     }
     if (!radio1[8].checked) {
 
@@ -4115,7 +4118,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[9].value = c;
-        
+
     }
     if (!radio1[9].checked) {
 
@@ -4127,9 +4130,9 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("clapp")[10].value = c;
-     
+
     }
-    if (!radio1[10].checked) { }
+    if (!radio1[10].checked) {}
 
 
 
@@ -4153,7 +4156,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[1].value = c;
-        
+
     }
     if (!radio2[1].checked) {
 
@@ -4165,7 +4168,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[2].value = c;
- 
+
     }
     if (!radio2[2].checked) {
 
@@ -4177,7 +4180,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[3].value = c;
-    
+
     }
     if (!radio2[3].checked) {
 
@@ -4189,7 +4192,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[4].value = c;
-        
+
     }
     if (!radio2[4].checked) {
 
@@ -4201,7 +4204,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[5].value = c;
-      
+
     }
     if (!radio2[5].checked) {
 
@@ -4213,7 +4216,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[6].value = c;
-    
+
     }
     if (!radio2[6].checked) {
 
@@ -4225,7 +4228,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[7].value = c;
-      
+
     }
     if (!radio2[7].checked) {
 
@@ -4237,7 +4240,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[8].value = c;
-       
+
     }
     if (!radio2[8].checked) {
 
@@ -4249,7 +4252,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[9].value = c;
-       
+
     }
     if (!radio2[9].checked) {
 
@@ -4261,7 +4264,7 @@ function imsdafsad18() {
         var b = parseInt(h);
         var c = a + b;
         document.getElementsByClassName("rundisa")[10].value = c;
-       
+
     }
     if (!radio2[10].checked) {
 
@@ -4269,6 +4272,7 @@ function imsdafsad18() {
 
 
 }
+
 function imsdafsad19() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -4400,7 +4404,7 @@ function imsdafsad19() {
         document.getElementsByClassName("clapp")[10].value = c;
 
     }
-    if (!radio1[10].checked) { }
+    if (!radio1[10].checked) {}
 
 
 
@@ -4540,6 +4544,7 @@ function imsdafsad19() {
 
 
 }
+
 function imsdafsad20() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -4671,7 +4676,7 @@ function imsdafsad20() {
         document.getElementsByClassName("clapp")[10].value = c;
 
     }
-    if (!radio1[10].checked) { }
+    if (!radio1[10].checked) {}
 
 
 
@@ -4811,6 +4816,7 @@ function imsdafsad20() {
 
 
 }
+
 function imsdafsad21() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -5082,6 +5088,7 @@ function imsdafsad21() {
 
 
 }
+
 function imsdafsad22() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -5353,6 +5360,7 @@ function imsdafsad22() {
 
 
 }
+
 function imsdafsad23() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -5648,8 +5656,8 @@ function wicall() {
     var j = parseInt(s);
     var ml = document.getElementsByClassName("wicket5")[10].value;
     var k = parseInt(ml);
-   
-   
+
+
     var l = a + b + c + d + e + f + g + h + i + j + k;
     document.getElementsByClassName("allbolll2")[0].value = l;
 }
@@ -5991,23 +5999,25 @@ function bo2() {
 }
 
 function econo() {
-        var k = document.getElementsByClassName("over")[0].value;
-        var a = parseInt(k);
-        var m = document.getElementsByClassName("rundisa")[0].value;
-        var b = parseInt(m);
-        var d = a /6;
-        var e =b/d;
-        document.getElementsByClassName("runwicket")[0].value = e;
-    }
+    var k = document.getElementsByClassName("over")[0].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[0].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[0].value = e;
+}
+
 function econo1() {
-        var k = document.getElementsByClassName("over")[1].value;
-        var a = parseInt(k);
-        var m = document.getElementsByClassName("rundisa")[1].value;
-        var b = parseInt(m);
-        var d = a /6;
-        var e =b/d;
-        document.getElementsByClassName("runwicket")[1].value = e;
-    }
+    var k = document.getElementsByClassName("over")[1].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[1].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[1].value = e;
+}
+
 function econo2() {
     var k = document.getElementsByClassName("over")[2].value;
     var a = parseInt(k);
@@ -6037,6 +6047,7 @@ function econo4() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[4].value = e;
 }
+
 function econo5() {
     var k = document.getElementsByClassName("over")[5].value;
     var a = parseInt(k);
@@ -6046,6 +6057,7 @@ function econo5() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[5].value = e;
 }
+
 function econo6() {
     var k = document.getElementsByClassName("over")[6].value;
     var a = parseInt(k);
@@ -6055,6 +6067,7 @@ function econo6() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[6].value = e;
 }
+
 function econo7() {
     var k = document.getElementsByClassName("over")[7].value;
     var a = parseInt(k);
@@ -6064,6 +6077,7 @@ function econo7() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[7].value = e;
 }
+
 function econo8() {
     var k = document.getElementsByClassName("over")[8].value;
     var a = parseInt(k);
@@ -6073,6 +6087,7 @@ function econo8() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[8].value = e;
 }
+
 function econo9() {
     var k = document.getElementsByClassName("over")[9].value;
     var a = parseInt(k);
@@ -6082,6 +6097,7 @@ function econo9() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[9].value = e;
 }
+
 function econo10() {
     var k = document.getElementsByClassName("over")[10].value;
     var a = parseInt(k);
@@ -6091,5 +6107,3 @@ function econo10() {
     var e = b / d;
     document.getElementsByClassName("runwicket")[10].value = e;
 }
-
-
